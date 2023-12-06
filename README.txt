@@ -3,7 +3,7 @@ create a folder called "images" and inside that create a sub folder called "anyt
 
 here is the structure:
 
-images
+-> images
   -> characters
     -> kitana
 	-> image1.png
